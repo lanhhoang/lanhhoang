@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://www.lanhhoang.dev/](https://www.lanhhoang.dev/)
+- 👨‍💻 All of my projects are available at [https://www.lukash.dev/](https://www.lukash.dev/)
 
 - 💬 Ask me about **Ruby on Rails**
 
